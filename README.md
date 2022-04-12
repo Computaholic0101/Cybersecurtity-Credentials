@@ -1,5 +1,5 @@
 # Cybersecurtity-Credentials
-This is a repository that contains a few scripts and diagrams that I completed while attending the University of Utah Cybersecurity bootcamp.
+This is a repository that contains a few scripts and diagrams that I completed while attending the University of Utah Cybersecurity Bootcamp.
 
 ## Automated ELK Stack Deployment
 
