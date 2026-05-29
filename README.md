@@ -10,7 +10,7 @@ https://github.com/Computaholic0101/Cybersecurity-Credentials/blob/main/Diagrams
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the png file may be used to install only
 certain pieces of it, such as Filebeat.
 
-  - https://github.com/Computaholic0101/Cybersecurtity-Credentials/tree/main/Ansible/yml
+  - https://github.com/Computaholic0101/Cybersecurity-Credentials/tree/main/Ansible/yml
 
 This document contains the following details:
 - Description of the Topology
